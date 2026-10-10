@@ -1,0 +1,60 @@
+1] longestConsecutive
+
+
+class Solution {
+public:
+    int longestConsecutive(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+          if (nums.empty()) {
+                 return {};
+            } 
+        int i = nums [0];
+        int count =1;
+        int longest=1;
+        for(int j = 1; j < nums.size() ; j++){      
+            if(nums [j]== nums[j-1]){
+                continue;
+            }
+              else if (nums[j] == nums[j - 1] + 1) {
+                count++;
+            }
+               else {
+                count = 1;
+            }
+         
+              longest = max(longest, count);
+        }
+        return longest;
+    }       
+
+};
+1] longestConsecutive
+
+
+class Solution {
+public:
+    int longestConsecutive(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+          if (nums.empty()) {
+                 return {};
+            } 
+        int i = nums [0];
+        int count =1;
+        int longest=1;
+        for(int j = 1; j < nums.size() ; j++){      
+            if(nums [j]== nums[j-1]){
+                continue;
+            }
+              else if (nums[j] == nums[j - 1] + 1) {
+                count++;
+            }
+               else {
+                count = 1;
+            }
+         
+              longest = max(longest, count);
+        }
+        return longest;
+    }       
+
+};
