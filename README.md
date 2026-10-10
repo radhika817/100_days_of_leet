@@ -17,7 +17,8 @@ This repository will document my daily progress, coding practice, key learnings,
 
 ## 🗓️ Daily Progress
 
-day 01 - 
+day 01 - started with hashing 
+         1] longestConsecutive 
 
 *I'll update this table daily as I make progress.*
 
