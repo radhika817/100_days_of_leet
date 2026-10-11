@@ -17,10 +17,13 @@ This repository will document my daily progress, coding practice, key learnings,
 
 ## 🗓️ Daily Progress
 
-day 01 - started with hashing 
-         1] longestConsecutive 
+- Day 01 - Started with hashing
+  - 1] longestConsecutive
 
-*I'll update this table daily as I make progress.*
+- Day 02 - Started with prefix sum + hashmap
+  - 1] subarraySum (LeetCode 560)
+
+*I'll update this list daily as I make progress.*
 
 ## 📚 What I'll Be Working On
 
@@ -37,7 +40,7 @@ day 01 - started with hashing
 - **Challenge:** 100 Days of Code
 - **Start Date:** October 10, 2026
 - **End Date:** January 17, 2027
-- **Days Completed:** 1/100
+- **Days Completed:** 2/100
 - **Current Status:** In Progress 🚀
 
 ## 💡 My Commitment
