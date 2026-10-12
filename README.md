@@ -23,8 +23,9 @@ This repository will document my daily progress, coding practice, key learnings,
 - Day 02 - Started with prefix sum + hashmap
   - 1] subarraySum (LeetCode 560)
 
-- Day 03 - Continued with prefix sum + hashmap
-  - 1] maxLen (longest subarray with sum zero)
+- Day 03 - Started with strings + revisited prefix sum
+  - 1] maxDepth (maximum nesting depth of parentheses)
+  - 2] maxLen (longest subarray with sum zero)
 
 *I'll update this list daily as I make progress.*
 
