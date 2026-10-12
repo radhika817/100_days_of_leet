@@ -23,6 +23,9 @@ This repository will document my daily progress, coding practice, key learnings,
 - Day 02 - Started with prefix sum + hashmap
   - 1] subarraySum (LeetCode 560)
 
+- Day 03 - Continued with prefix sum + hashmap
+  - 1] maxLen (longest subarray with sum zero)
+
 *I'll update this list daily as I make progress.*
 
 ## 📚 What I'll Be Working On
@@ -40,7 +43,7 @@ This repository will document my daily progress, coding practice, key learnings,
 - **Challenge:** 100 Days of Code
 - **Start Date:** October 10, 2026
 - **End Date:** January 17, 2027
-- **Days Completed:** 2/100
+- **Days Completed:** 3/100
 - **Current Status:** In Progress 🚀
 
 ## 💡 My Commitment
