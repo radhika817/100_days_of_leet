@@ -27,6 +27,9 @@ This repository will document my daily progress, coding practice, key learnings,
   - 1] maxDepth (maximum nesting depth of parentheses)
   - 2] maxLen (longest subarray with sum zero)
 
+- Day 04 - Started with strings + subsequence pattern
+  - 1] isSubsequence
+
 *I'll update this list daily as I make progress.*
 
 ## 📚 What I'll Be Working On
@@ -44,7 +47,7 @@ This repository will document my daily progress, coding practice, key learnings,
 - **Challenge:** 100 Days of Code
 - **Start Date:** October 10, 2026
 - **End Date:** January 17, 2027
-- **Days Completed:** 3/100
+- **Days Completed:** 4/100
 - **Current Status:** In Progress 🚀
 
 ## 💡 My Commitment
