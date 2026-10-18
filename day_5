@@ -1,0 +1,22 @@
+leetcode question = sum of square of special elem
+
+
+
+class Solution {
+public:
+    int sumOfSquares(vector<int>& nums) {
+        
+        vector<int> np;
+        for(int i = 1 ; i<=nums.size() ; i++){
+            if(nums.size()%i==0){
+                np.push_back(nums[i-1]);
+            }
+        }
+        int sum = 0;
+        for(int j = 0 ; j < np.size(); j++){
+            sum +=(np[j]*np[j]);
+        }
+return sum;
+    }
+};
+
