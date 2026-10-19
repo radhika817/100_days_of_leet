@@ -33,6 +33,9 @@ This repository will document my daily progress, coding practice, key learnings,
 - Day 05 - Practiced array indexing and divisibility
   - 1] sumOfSquares (LeetCode 2778: Sum of Squares of Special Elements)
 
+- Day 06 - Practiced string matching
+  - 1] strStr (LeetCode 28: Find the Index of the First Occurrence in a String)
+
 *I'll update this list daily as I make progress.*
 
 ## 📚 What I'll Be Working On
@@ -50,7 +53,7 @@ This repository will document my daily progress, coding practice, key learnings,
 - **Challenge:** 100 Days of Code
 - **Start Date:** October 10, 2026
 - **End Date:** January 17, 2027
-- **Days Completed:** 5/100
+- **Days Completed:** 6/100
 - **Current Status:** In Progress 🚀
 
 ## 💡 My Commitment
