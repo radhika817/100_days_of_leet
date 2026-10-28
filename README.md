@@ -42,6 +42,9 @@ This repository will document my daily progress, coding practice, key learnings,
 - Day 08 - Practiced matrix pattern generation
   - 1] createGrid
 
+- Day 09 - Practiced digit-sum logic and index matching
+  - 1] smallestIndex
+
 *I'll update this list daily as I make progress.*
 
 ## 📚 What I'll Be Working On
@@ -59,7 +62,7 @@ This repository will document my daily progress, coding practice, key learnings,
 - **Challenge:** 100 Days of Code
 - **Start Date:** October 10, 2026
 - **End Date:** January 17, 2027
-- **Days Completed:** 8/100
+- **Days Completed:** 9/100
 - **Current Status:** In Progress 🚀
 
 ## 💡 My Commitment
