@@ -16,3 +16,9 @@ public:
         return 0;
     }
 };
+
+
+imp find(nums.begin(), nums.end() , ans == nums.end(){
+    return ans;
+}
+ans +=k;
