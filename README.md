@@ -57,6 +57,9 @@ This repository will document my daily progress, coding practice, key learnings,
   - 2] middleNode
   - 3] reverseList
 
+- Day 13 - Practiced sorting and identifying missing values in a range
+  - 1] findMissingElements
+
 *I'll update this list daily as I make progress.*
 
 ## 📚 What I'll Be Working On
@@ -74,7 +77,7 @@ This repository will document my daily progress, coding practice, key learnings,
 - **Challenge:** 100 Days of Code
 - **Start Date:** October 10, 2026
 - **End Date:** January 17, 2027
-- **Days Completed:** 12/100
+- **Days Completed:** 13/100
 - **Current Status:** In Progress 🚀
 
 ## 💡 My Commitment
