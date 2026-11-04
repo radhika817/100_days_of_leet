@@ -63,6 +63,9 @@ This repository will document my daily progress, coding practice, key learnings,
 - Day 14 - Practiced prefix and suffix sums
   - 1] leftRightDifference (LeetCode 2574: Left and Right Sum Differences)
 
+- Day 15 - Practiced digit scanning and maximum product logic
+  - 1] maxProduct
+
 *I'll update this list daily as I make progress.*
 
 ## 📚 What I'll Be Working On
@@ -80,7 +83,7 @@ This repository will document my daily progress, coding practice, key learnings,
 - **Challenge:** 100 Days of Code
 - **Start Date:** October 10, 2026
 - **End Date:** January 17, 2027
-- **Days Completed:** 14/100
+- **Days Completed:** 15/100
 - **Current Status:** In Progress 🚀
 
 ## 💡 My Commitment
