@@ -86,7 +86,7 @@ This repository will document my daily progress, coding practice, key learnings,
 ## 📊 My Progress
 
 - **Challenge:** 100 Days of Code
-- **Start Date:** October 10, 2026
+- **Start Date:** October 19, 2026
 - **End Date:** January 17, 2027
 - **Days Completed:** 16/100
 - **Current Status:** In Progress 🚀
