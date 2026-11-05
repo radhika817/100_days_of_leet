@@ -66,8 +66,10 @@ This repository will document my daily progress, coding practice, key learnings,
 - Day 15 - Practiced digit scanning and maximum product logic
   - 1] maxProduct
 
-- Day 16 - Practiced nested iteration and distance comparisons
+- Day 16 - Practiced array distance checks and NeetCode 150 problems
   - 1] findTheDistanceValue (LeetCode 1385: Find the Distance Value Between Two Arrays)
+  - 2] hasDuplicate (Contains Duplicate)
+  - 3] isAnagram (Valid Anagram)
 
 *I'll update this list daily as I make progress.*
 
